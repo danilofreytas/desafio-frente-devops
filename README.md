@@ -22,11 +22,8 @@ A.	Desenhe como seria o conceito de pipeline CI/CD , levando em consideração q
 
 #### Desafio Prático
 
-a.	Monte um serviço de e-mail completo. Entendemos que ele deverá conter:
-i.	Servidor SMTP; 
-ii.	IMAP;
-iii.	Client web. 
-iv.	Note que o SMTP e IMAP devem conter SSL (que poderá ser auto assinado); 
+a.	Monte um serviço de e-mail completo. Entendemos que ele deverá conter:Servidor SMTP; IMAP; Client web. 
+Note que o SMTP e IMAP devem conter SSL (que poderá ser auto assinado); 
 
 ##### Ponto Bônus
 A.	Fazer esse serviço em infra as code. Neste caso, você deverá disponibilizar todos os arquivos de configuração em um repositório para que possamos replicar em nosso ambiente. 
